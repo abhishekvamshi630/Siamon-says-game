@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    border: 8px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+}
+
+.firstDiv{
+    background-color: #1679AB;
+}
+
+.secDiv{
+    background-color: #CDE8E5;
+}
+
+.thirdDiv{
+    background-color: #874CCC;
+}
+
+.fourthDiv{
+    background-color: #E8C872;
+}
+
+.flash {
+    background-color: #fff;
+}
+
+.flash-two{
+    background-color: yellow;
+}
